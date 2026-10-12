@@ -1,29 +1,75 @@
-<h1 align="center">Hi 👋, I'm Upendra Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Upendra Sharma
+### Data Analyst | SQL • Python • Power BI • Analytics Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upendra657" alt="upendra657" /></a> </p>
+I'm a Data Analyst at Deloitte India, working at the intersection of
+data, technology, and business transformation.
 
-- 🔭 I’m currently working on [Premier League Predictor](https://github.com/upendra657/Premier-League-Predictor)
+My experience includes automating data validation, improving data quality,
+and translating business requirements into reliable data-driven solutions.
+Outside work, I build analytics projects focused on data modeling,
+pipeline reliability, and extracting actionable insights from complex datasets.
 
-- 🌱 I’m currently learning **Nextjs, React, Hadoop, SAP**
+I’m particularly interested in opportunities across Data Analytics,
+Business Intelligence, and Product Analytics.
 
-- 👯 I’m looking to collaborate on **Any opportunities that present themselves**
+- **Location:** Bengaluru, India — open to relocation to Bangkok, Thailand
+- **Core tools:** SQL, Python, PostgreSQL, Excel, Power BI
+- **Analytics engineering:** Snowflake, dbt Core, PySpark, data modeling, data quality
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/upendra657/)
+- **Portfolio:** [upendra657.github.io](https://upendra657.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://upendra657.github.io/portfolio-website/](https://upendra657.github.io/portfolio-website/)
+---
 
-- 💬 Ask me about **Data Science**
+## Featured Projects
 
-- 📫 How to reach me **sharmaupendra657@gmail.com**
+### 1. Cartographer — Marketplace Supply Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/upendra-sharma-21783a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="upendra-sharma-21783a1a9" height="30" width="40" /></a>
-<a href="https://instagram.com/upendra_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upendra_03" height="30" width="40" /></a>
-</p>
+**SQL · Snowflake · dbt Core · PySpark**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+An analytics pipeline built around a public e-commerce dataset to investigate
+seller performance, fulfillment SLA compliance, and seller retention.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upendra657&show_icons=true&locale=en" alt="upendra657" /></p>
+- Processed **1.55 million raw records** through an analytics pipeline.
+- Investigated a join-cardinality issue that inflated gross merchandise
+  value (GMV) by **5.02% (R$682,300)**.
+- Validated the discrepancy and defined corrective aggregation and
+  reconciliation requirements.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upendra657&" alt="upendra657" /></p>
+**[Live Demo](https://cartographer-marketplace.streamlit.app/) ·
+[Source Code](https://github.com/upendra657/Cartographer)**
+
+### 2. Mealo — Local-First Health Tracking App
+
+**SQL · SQLite · TypeScript · Data Modeling**
+
+A privacy-first tracking application designed around structured data,
+consistent records, and reliable data operations.
+
+- Defined a data model comprising **24 database tables** and
+  **13 versioned schema migrations**.
+- Identified meal-serving estimates that overstated quantities by up to
+  **2.5×** while preparing the food dataset.
+- Validated revised calculation logic against measured data to within **4%**.
+
+**[Live Demo](https://mealo-demo.pages.dev/) ·
+[Source Code](https://github.com/upendra657/mealo)**
+
+---
+
+## Technical Skills
+
+| Category | Technologies and Concepts |
+|---|---|
+| Analytics & Programming | SQL, PostgreSQL, Python, pandas, NumPy, Advanced Excel |
+| BI & Visualization | Power BI, Tableau, Matplotlib, Seaborn |
+| Data Engineering & Quality | Snowflake, dbt Core, PySpark, ETL pipelines, data modeling, data profiling, data validation, data reconciliation |
+| Data Analysis & Statistics | Data exploration, hypothesis testing, confidence intervals, effect size, statistical significance |
+| Tools & Business Delivery | Git, Docker, GitHub Actions, FastAPI, Flask, SAP S/4HANA, SAP DMC, requirements analysis, stakeholder management, Agile |
+
+---
+
+## Contact
+
+- **Email:** [sharmaupendra657@gmail.com](mailto:sharmaupendra657@gmail.com)
+- **LinkedIn:** [linkedin.com/in/upendra657](https://www.linkedin.com/in/upendra657/)
+- **Portfolio:** [upendra657.github.io](https://upendra657.github.io/)
