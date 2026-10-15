@@ -12,7 +12,7 @@ pipeline reliability, and extracting actionable insights from complex datasets.
 I’m particularly interested in opportunities across Data Analytics,
 Business Intelligence, and Product Analytics.
 
-- **Location:** Bengaluru, India — open to relocation to Bangkok, Thailand
+- **Location:** Bengaluru, India
 - **Core tools:** SQL, Python, PostgreSQL, Excel, Power BI
 - **Analytics engineering:** Snowflake, dbt Core, PySpark, data modeling, data quality
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/upendra657/)
